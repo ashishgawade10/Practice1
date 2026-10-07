@@ -1,0 +1,3 @@
+Hello Git!
+This is my first Git practical.
+I am learning Git and GitHub using TortoiseGit.
